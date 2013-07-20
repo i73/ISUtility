@@ -1,4 +1,3 @@
 ISUtility
 =========
 
-a sample repository
